@@ -29,16 +29,6 @@ United International University, Bangladesh
 | 04 | Sharpen Your Interview Skills |
 | 05 | Smart CV |
 
-### 📁 Certificate Files
-
-- [Art of Communication](Grameenphone-Academy/Art-of-Communication.pdf)
-- [Corporate Presentation Skills](Grameenphone-Academy/Corporate-Presentation-Skills.pdf)
-- [LinkedIn 101](Grameenphone-Academy/LinkedIn-101.pdf)
-- [Sharpen Your Interview Skills](Grameenphone-Academy/Sharpen-Your-Interview-Skills.pdf)
-- [Smart CV](Grameenphone-Academy/Smart-CV.pdf)
-
----
-
 ## 🏆 Academic Achievement
 
 ### 6th Runner-Up – UIU CSE Project Show, Spring 2025
