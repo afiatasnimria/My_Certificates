@@ -1,1 +1,1 @@
-# Grameenphone_Academy_Certificates
+# Certificates
